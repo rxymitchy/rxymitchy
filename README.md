@@ -17,10 +17,6 @@
   <a href="https://github.com/rxymitchy?tab=repositories"><strong>Repos</strong></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rxymitchy&label=visitors&color=3ddc97&style=flat-square" alt="profile visitors" />
-</p>
-
 ### Currently poking at
 
 - [Taska](https://github.com/rxymitchy/taska) hands an AI answer to someone who actually speaks the language, then writes down that they got paid.
