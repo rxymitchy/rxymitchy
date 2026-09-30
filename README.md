@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Mitchelle 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=3DDC97&center=true&vCenter=true&width=380&height=44&lines=Python;TypeScript;JavaScript" alt="Python, TypeScript, JavaScript" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=3DDC97&center=true&vCenter=true&width=460&height=40&lines=building+AI+agents;shipping+real+products;writing+code+people+can+run" alt="Building AI agents, shipping products, writing code people can run" />
 </p>
 
 <p align="center">
@@ -20,15 +20,7 @@
 <h3 align="center">Languages</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxymitchy&langs_count=8&hide_border=true&bg_color=0d1117&title_color=3DDC97&text_color=E6EDF3&icon_color=79C0FF&cache_seconds=3600" alt="Languages by share of public code" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxymitchy&langs_count=6&hide_border=true&bg_color=0d1117&title_color=3DDC97&text_color=E6EDF3&icon_color=79C0FF&cache_seconds=3600" alt="Languages by share of public code" />
 </p>
 
 <h3 align="center">Stack</h3>
@@ -57,7 +49,6 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=rxymitchy&show_icons=true&include_all_commits=true&rank_icon=github&hide=issues,contribs&hide_border=true&bg_color=0d1117&title_color=3DDC97&text_color=E6EDF3&icon_color=79C0FF&border_color=30363D&ring_color=3DDC97&cache_seconds=3600" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rxymitchy&theme=github_dark&utcOffset=3" alt="Hours I tend to commit" />
 </p>
 
 <h3 align="center">Selected work</h3>
