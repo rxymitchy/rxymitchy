@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Mitchelle 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=3DDC97&center=true&vCenter=true&width=460&height=40&lines=building+AI+agents;shipping+real+products;writing+code+people+can+run" alt="Building AI agents, shipping products, writing code people can run" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=3DDC97&center=true&vCenter=true&width=520&height=40&lines=I+love+solving+real+problems;I+love+building+AI+agents;In+my+free+time+I+enjoy+the+arts" alt="I love solving real problems, I love building AI agents, and in my free time I enjoy the arts" />
 </p>
 
 <p align="center">
