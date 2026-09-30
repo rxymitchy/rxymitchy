@@ -1,12 +1,12 @@
 <h1 align="center">Hey, I'm Mitchelle 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=700&color=3DDC97&center=true&vCenter=true&width=460&height=36&lines=real+people+check+the+agents;TypeScript%2C+buttons+included;Python+when+a+notebook+is+enough;open+source%2C+lights+left+on" alt="agents, TypeScript, Python, open source" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=3DDC97&center=true&vCenter=true&width=380&height=44&lines=Python;TypeScript;JavaScript" alt="Python, TypeScript, JavaScript" />
 </p>
 
 <p align="center">
-  I build AI agents and the apps around them.<br/>
-  A speaker of the language. A person asking for credit. A business still doing it by hand.
+  Software engineer. I build AI agents and the products around them.<br/>
+  <strong>Contributions are welcome.</strong>
 </p>
 
 <p align="center">
@@ -17,82 +17,56 @@
   <a href="https://github.com/rxymitchy?tab=repositories"><strong>Repos</strong></a>
 </p>
 
-### Currently poking at
-
-- [Taska](https://github.com/rxymitchy/taska) hands an AI answer to someone who actually speaks the language, then writes down that they got paid.
-- [Kredoof](https://github.com/rxymitchy/Kredoof) lets a wallet's history sit down with a credit model and explain itself.
-- [Northline](https://github.com/rxymitchy/northline) reads how a business works and points at the jobs that still need a human. [It's live](https://northline-8j55.onrender.com). Click around.
-
-Notebook mode is loans, land, and game-theory agents who are bad at being rational on purpose.
-
-### Languages and tools
+<h3 align="center">Languages</h3>
 
 <p align="center">
-  <strong>Languages</strong><br/>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css&theme=dark" alt="Python, TypeScript, JavaScript, HTML, CSS" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxymitchy&langs_count=8&hide_border=true&bg_color=0d1117&title_color=3DDC97&text_color=E6EDF3&icon_color=79C0FF&cache_seconds=3600" alt="Languages by share of public code" />
 </p>
 
 <p align="center">
-  <strong>Building the product</strong><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,django,flask&theme=dark" alt="React, Next.js, Tailwind, Node.js, Django, Flask" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+<h3 align="center">Stack</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 </p>
 
 <p align="center">
-  <strong>Where the data lives</strong><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,git&theme=dark" alt="PostgreSQL, Prisma, Supabase, Git" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-Bitcoin Lightning payouts on Taska. Wallet-connected scoring on Kredoof. Auth.js and Zod when a form needs to behave.
-
-### The scoreboard
+<h3 align="center">GitHub</h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rxymitchy&hide_border=true&background=0D1117&ring=3DDC97&fire=3DDC97&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=3DDC97&sideLabels=8B949E&dates=8B949E&stroke=30363D&border=30363D" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rxymitchy&show_icons=true&include_all_commits=true&rank_icon=github&hide=issues,contribs&hide_border=true&bg_color=0d1117&title_color=3DDC97&text_color=E6EDF3&icon_color=79C0FF&border_color=30363D&ring_color=3DDC97" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxymitchy&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=3DDC97&text_color=E6EDF3&icon_color=79C0FF" alt="Most used languages" />
-</p>
-
-<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rxymitchy&show_icons=true&include_all_commits=true&rank_icon=github&hide=issues,contribs&hide_border=true&bg_color=0d1117&title_color=3DDC97&text_color=E6EDF3&icon_color=79C0FF&border_color=30363D&ring_color=3DDC97&cache_seconds=3600" alt="GitHub stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rxymitchy&theme=github_dark&utcOffset=3" alt="Hours I tend to commit" />
 </p>
 
-### The snake has a job
+<h3 align="center">Selected work</h3>
 
 <p align="center">
-  <img src="dist/contrib-snake.svg" alt="A snake crossing the contribution grid" />
-</p>
-
-It crosses the year one square at a time. Quiet weeks stay dim. September did not.
-
-<p align="center">
-  <img src="dist/activity.svg" alt="Contribution activity over the past year" />
-</p>
-
-### Projects with the lights on
-
-<p align="center">
-  <a href="https://github.com/rxymitchy/taska"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rxymitchy&repo=taska&hide_border=true&bg_color=0d1117&title_color=3DDC97&text_color=E6EDF3&icon_color=79C0FF" alt="Taska" /></a>
-  <a href="https://github.com/rxymitchy/Kredoof"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rxymitchy&repo=Kredoof&hide_border=true&bg_color=0d1117&title_color=3DDC97&text_color=E6EDF3&icon_color=79C0FF" alt="Kredoof" /></a>
+  <a href="https://github.com/rxymitchy/taska"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rxymitchy&repo=taska&hide_border=true&bg_color=0d1117&title_color=3DDC97&text_color=E6EDF3&icon_color=79C0FF&cache_seconds=3600" alt="Taska" /></a>
+  <a href="https://github.com/rxymitchy/Kredoof"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rxymitchy&repo=Kredoof&hide_border=true&bg_color=0d1117&title_color=3DDC97&text_color=E6EDF3&icon_color=79C0FF&cache_seconds=3600" alt="Kredoof" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/rxymitchy/northline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rxymitchy&repo=northline&hide_border=true&bg_color=0d1117&title_color=3DDC97&text_color=E6EDF3&icon_color=79C0FF" alt="Northline" /></a>
-  <a href="https://github.com/rxymitchy/prospect-theory"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rxymitchy&repo=prospect-theory&hide_border=true&bg_color=0d1117&title_color=3DDC97&text_color=E6EDF3&icon_color=79C0FF" alt="Prospect theory" /></a>
+  <a href="https://github.com/rxymitchy/northline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rxymitchy&repo=northline&hide_border=true&bg_color=0d1117&title_color=3DDC97&text_color=E6EDF3&icon_color=79C0FF&cache_seconds=3600" alt="Northline" /></a>
+  <a href="https://github.com/rxymitchy/prospect-theory"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rxymitchy&repo=prospect-theory&hide_border=true&bg_color=0d1117&title_color=3DDC97&text_color=E6EDF3&icon_color=79C0FF&cache_seconds=3600" alt="Prospect theory" /></a>
 </p>
-
-Also in the mix: [loan eligibility](https://github.com/rxymitchy/Loan-Approval-Prediction) and [whether a site can take another building](https://github.com/rxymitchy/LandResourceUtilizationFlask).
-
-### Come build in public
-
-Made something useful? Don't leave it in a drawer. Put it on GitHub this week.
-
-Say what it does in the first five lines. Add the commands to run it. Pick a license. Leave one issue a new person can finish after dinner.
-
-If you'd rather practice on code that already has a pulse, pull up a chair:
-
-- [Northline](https://github.com/rxymitchy/northline) is the friendly door. MIT license, a [contributing guide](https://github.com/rxymitchy/northline/blob/master/CONTRIBUTING.md), and it likes pull requests that fit in one sitting.
-- [Taska](https://github.com/rxymitchy/taska) and [Kredoof](https://github.com/rxymitchy/Kredoof) will take a careful change too. Read the README, fix one thing, tell me what you tried.
-
-Shipping is the fun part. Showing up afterward is how it stays fun for the next person.
