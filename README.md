@@ -6,6 +6,8 @@
 <p align="center">
   <a href="https://mitchelles-devportforlio.lovable.app/"><strong>Portfolio</strong></a>
   &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/mitchelle-ashimosi"><strong>LinkedIn</strong></a>
+  &nbsp;·&nbsp;
   <a href="https://github.com/rxymitchy?tab=repositories"><strong>Repositories</strong></a>
 </p>
 
@@ -38,7 +40,7 @@ Earlier web work is in HTML, CSS, Django, and PHP. The chart under Languages is 
 ## GitHub
 
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rxymitchy&show_icons=true&include_all_commits=true&rank_icon=percentile&hide_border=true&theme=github_dark" />
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rxymitchy&show_icons=true&include_all_commits=true&rank_icon=percentile&hide=issues,contribs&hide_border=true&theme=github_dark" />
   <img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com?user=rxymitchy&hide_border=true&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 <p align="center">
