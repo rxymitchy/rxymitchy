@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Mitchelle 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=700&color=3DDC97&center=true&vCenter=true&multiline=false&width=720&height=40&lines=agents+that+have+to+survive+a+real+person;TypeScript%2C+buttons+included;Python+when+the+notebook+is+the+point;open+source%2C+with+the+lights+left+on" alt="agents, TypeScript, Python, open source" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=700&color=3DDC97&center=true&vCenter=true&width=460&height=36&lines=real+people+check+the+agents;TypeScript%2C+buttons+included;Python+when+a+notebook+is+enough;open+source%2C+lights+left+on" alt="agents, TypeScript, Python, open source" />
 </p>
 
 <p align="center">
