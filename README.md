@@ -48,16 +48,15 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rxymitchy&show_icons=true&include_all_commits=true&rank_icon=github&hide=issues,contribs&hide_border=true&bg_color=0d1117&title_color=3DDC97&text_color=E6EDF3&icon_color=79C0FF&border_color=30363D&ring_color=3DDC97&cache_seconds=3600" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rxymitchy&show_icons=true&include_all_commits=true&rank_icon=github&hide=issues&hide_border=true&bg_color=0d1117&title_color=3DDC97&text_color=E6EDF3&icon_color=79C0FF&border_color=30363D&ring_color=3DDC97&cache_seconds=3600" alt="GitHub stats" />
 </p>
 
 <h3 align="center">Selected work</h3>
 
 <p align="center">
   <a href="https://github.com/rxymitchy/taska"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rxymitchy&repo=taska&hide_border=true&bg_color=0d1117&title_color=3DDC97&text_color=E6EDF3&icon_color=79C0FF&cache_seconds=3600" alt="Taska" /></a>
-  <a href="https://github.com/rxymitchy/Kredoof"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rxymitchy&repo=Kredoof&hide_border=true&bg_color=0d1117&title_color=3DDC97&text_color=E6EDF3&icon_color=79C0FF&cache_seconds=3600" alt="Kredoof" /></a>
+  <a href="https://github.com/rxymitchy/northline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rxymitchy&repo=northline&hide_border=true&bg_color=0d1117&title_color=3DDC97&text_color=E6EDF3&icon_color=79C0FF&cache_seconds=3600" alt="Northline" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/rxymitchy/northline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rxymitchy&repo=northline&hide_border=true&bg_color=0d1117&title_color=3DDC97&text_color=E6EDF3&icon_color=79C0FF&cache_seconds=3600" alt="Northline" /></a>
   <a href="https://github.com/rxymitchy/prospect-theory"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rxymitchy&repo=prospect-theory&hide_border=true&bg_color=0d1117&title_color=3DDC97&text_color=E6EDF3&icon_color=79C0FF&cache_seconds=3600" alt="Prospect theory" /></a>
 </p>
