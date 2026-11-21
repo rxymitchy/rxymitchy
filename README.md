@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rxymitchy&show_icons=true&include_all_commits=true&rank_icon=github&hide=issues&hide_border=true&bg_color=0d1117&title_color=3DDC97&text_color=E6EDF3&icon_color=79C0FF&border_color=30363D&ring_color=3DDC97&cache_seconds=3600" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rxymitchy&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide=issues&hide_border=true&bg_color=0d1117&title_color=3DDC97&text_color=E6EDF3&icon_color=79C0FF&border_color=30363D&ring_color=3DDC97&cache_seconds=3600" alt="GitHub stats" />
 </p>
 
 <h3 align="center">Selected work</h3>
